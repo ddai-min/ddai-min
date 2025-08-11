@@ -22,7 +22,7 @@
 
   |<b>Language</b>|  ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=white)|
   |------:|:------:|
-  |<b>Engine</b>|  ![Unreal Engine](https://img.shields.io/badge/Unreal Engine-0E1128.svg?&style=flat-square&logo=unrealengine&logoColor=white)|
+  |<b>Engine</b>|  ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128.svg?&style=flat-square&logo=unrealengine&logoColor=white)|
 
 <br>
   
