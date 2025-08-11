@@ -17,6 +17,14 @@
   |<b>Collaboration</b>|  ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white)  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?&style=flat-square&logo=GitLab&logoColor=white)  ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?&style=flat-square&logo=Bitbucket&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white)  ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white)|
 
 <br>
+
+### Learning
+
+  |<b>Language</b>|  ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=white)|
+  |------:|:------:|
+  |<b>Engine</b>|  ![Unreal Engine](https://img.shields.io/badge/Unreal Engine-0E1128.svg?&style=flat-square&logo=unrealengine&logoColor=white)|
+
+<br>
   
 ### Projects
 
