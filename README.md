@@ -3,7 +3,7 @@
   
 <h1 align="center">👋 Hi, &nbsp;I'm @ddai-min</h1>
 
-### Cross Platform Developer
+### App Developer (Flutter)
 
 <br>
 
@@ -30,10 +30,10 @@
 
   |Period|People|Title|Part|Description|
   |-----|-----|-----|-----|-----|  
-  |22.03~25.01(2y 10m)|7|Alioth V2|App Developer|Flutter 소스 레벨 개발 가이드 템플릿|
-  |23.01~23.11(11m)|10|LifelogOne|App Developer|블루투스 기기 이용 기반 헬스케어 앱|
-  |24.07~25.01(7m)|20|마이브라운|App Developer|펫 보험 앱|
-  |25.03~25.05(2m)|1|따이 커뮤니티|App Developer|커뮤니티 앱|
+  |22.03~25.01(2y 10m)|7|Alioth V2|App Client|Flutter 소스 레벨 개발 가이드 템플릿|
+  |23.01~23.11(11m)|10|LifelogOne|App Client|블루투스 기기 이용 기반 헬스케어 앱|
+  |24.07~25.01(7m)|20|마이브라운|App Client|펫 보험 앱|
+  |25.03~25.05(2m)|1|따이 커뮤니티|App Client|커뮤니티 앱|
 
 <br>
   
@@ -41,8 +41,8 @@
    
 |Period|Company|Job|
 |------|------|------|
-|2022.03 ~ 2025.01|(주) 두베|Cross-Platform Developer|    
-|2025.07 ~ ing|(주) 창헬스케어|Cross-Platform Developer|    
+|2022.03 ~ 2025.01|(주) 두베|App Developer|    
+|2025.07 ~ ing|(주) 창헬스케어|App Developer|    
 
 <br>
   
