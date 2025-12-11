@@ -50,7 +50,7 @@
   
 ### Github Stats
   
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ddai-min&show_icons=true&theme=tokyonight&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ddai-min&show_icons=true&theme=tokyonight&layout=compact&count_private=true)
 
 <br>
 
