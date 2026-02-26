@@ -9,7 +9,7 @@
 
 ### Tech Stack
  
-  |<b>Language</b>|  ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=flat-square&logo=Dart&logoColor=white)  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat-square&logo=Kotlin&logoColor=white)   ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=flat-square&logo=Swift&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=TypeScript&logoColor=white)|
+  |<b>Language</b>|  ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=flat-square&logo=Dart&logoColor=white)  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat-square&logo=Kotlin&logoColor=white)   ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=flat-square&logo=Swift&logoColor=white)|
   |------:|:------:|
   |<b>Framework</b>|  ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=flat-square&logo=Flutter&logoColor=white)|
   |<b>Server</b>|![Firebase](https://img.shields.io/badge/Firebase-DD2C00.svg?&style=flat-square&logo=Firebase&logoColor=white)|
