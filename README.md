@@ -23,6 +23,8 @@
   |<b>Language</b>|  ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=white)|
   |------:|:------:|
   |<b>Engine</b>|  ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128.svg?&style=flat-square&logo=unrealengine&logoColor=white)|
+  |------:|:------:|
+  |<b>IDE</b>|  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-8A3391.svg?&style=flat-square&logo=VisualStudio&logoColor=white)  ![Rider](https://img.shields.io/badge/Rider-EA5906.svg?&style=flat-square&logo=Rider&logoColor=white)  ![CLion](https://img.shields.io/badge/CLion-19E57F.svg?&style=flat-square&logo=CLion&logoColor=white)|
 
 <br>
   
