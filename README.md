@@ -23,7 +23,7 @@
   |<b>Language</b>|  ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=white)|
   |------:|:------:|
   |<b>Engine</b>|  ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128.svg?&style=flat-square&logo=unrealengine&logoColor=white)|
-  |<b>IDE</b>|  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-8A3391.svg?&style=flat-square&logo=VisualStudio&logoColor=white)  ![Rider](https://img.shields.io/badge/Rider-FFAE1A.svg?&style=flat-square&logo=Rider&logoColor=white)  ![CLion](https://img.shields.io/badge/CLion-19E57F.svg?&style=flat-square&logo=CLion&logoColor=white)|
+  |<b>IDE</b>|  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-8A3391.svg?&style=flat-square&logo=VisualStudio&logoColor=white)|
 
 <br>
   
@@ -32,10 +32,11 @@
   |Period|People|Title|Part|Description|
   |-----|-----|-----|-----|-----|  
   |22.03~25.01(2y 10m)|7|Alioth V2|App Client|Flutter 소스 레벨 개발 가이드 템플릿|
-  |23.01~23.11(11m)|10|LifelogOne|App Client|블루투스 기기 이용 기반 헬스케어 앱|
+  |23.01~23.11(11m)|10|LifelogOne|App Client|블루투스 기기 연동 헬스케어 앱|
   |24.07~25.01(7m)|20|마이브라운|App Client|펫 보험 앱|
   |25.03~25.05(2m)|1|따이 커뮤니티|App Client|커뮤니티 앱|
   |25.08~26.01(6m)|10|웰니스N창|App Client|만성질환 및 비만 관리 헬스케어 앱|
+  |26.04~26.07(4m)|10|온N창|App Client|암케어 서비스 헬스케어 앱|
 
 <br>
   
