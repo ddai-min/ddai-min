@@ -57,7 +57,7 @@ Flutter 앱 개발과 함께 네이티브(Android / iOS) 유지보수, 배포 �
   |Period|Title|Stack|Description|Link|
   |-----|-----|-----|-----|-----|
   |25.03~ing|따이 커뮤니티|Riverpod · Supabase · go_router|게시판 · 실시간 채팅 커뮤니티 앱|[Repo](https://github.com/ddai-min/ddai_community)|
-  |26.09~ing|ddai Clipboard|Riverpod · Drift · Swift · C++|macOS · Windows 클립보드 히스토리 매니저|[Repo](https://github.com/ddai-min/ddai_clipboard)|
+  |26.09~ing|따이 클립보드|Riverpod · Drift · Swift · C++|macOS · Windows 클립보드 히스토리 매니저|[Repo](https://github.com/ddai-min/ddai_clipboard)|
 
 <br>
   
