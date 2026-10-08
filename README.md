@@ -5,8 +5,7 @@
 ### App Developer (Flutter)
 
 헬스케어 · 보험 도메인에서 4년간 모바일 앱을 만들어 온 Flutter 개발자입니다.<br>
-Flutter 앱 개발과 함께 네이티브(Android / iOS) 유지보수, 배포 자동화까지 담당합니다.<br>
-최근에는 개인 프로젝트로 Flame · Unity 기반 게임을 만들고 있습니다.
+Flutter 앱 개발과 함께 네이티브(Android / iOS) 유지보수, 배포 자동화까지 담당합니다.
 
 <br>
 
@@ -36,7 +35,7 @@ Flutter 앱 개발과 함께 네이티브(Android / iOS) 유지보수, 배포 �
   |<b>Auth & Security</b>|소셜 로그인 (Kakao / Naver / Google / Apple) · 생체 인증 · 루팅 · 탈옥 탐지 · 화면 캡처 방지 · AES 암호화 · Supabase RLS · Firestore Security Rules|
   |<b>Native</b>|Platform Channel (Swift / Kotlin / C++) · WebView 하이브리드 · JS Bridge|
   |<b>Healthcare</b>|HealthKit · Google Fit 연동 · 만보기 · 건강 측정 기기 연동|
-  |<b>Game</b>|Flame · CustomPainter · 물리 · 충돌 처리 · 밸런스 시뮬레이션|
+  |<b>Graphics</b>|CustomPainter · fl_chart · Lottie · SVG · Flame|
   |<b>Deployment</b>|GitHub Actions · fastlane (match · TestFlight · Play Console) · FVM · 다중 환경 빌드 · Web 배포 (GitHub Pages · Firebase Hosting)|
   |<b>Test</b>|Unit Test · Widget Test · Golden Test|
 
@@ -60,10 +59,8 @@ Flutter 앱 개발과 함께 네이티브(Android / iOS) 유지보수, 배포 �
   |-----|-----|-----|-----|-----|
   |25.03~ing|따이 커뮤니티|Riverpod · Supabase · go_router|게시판 · 실시간 채팅 · 인앱 알림 커뮤니티 앱<br>Firebase → Supabase 전환 · 신고 / 차단 (RLS)|[Repo](https://github.com/ddai-min/ddai_community)|
   |26.09~ing|따이 클립보드|Riverpod · Drift · Swift · C++|macOS · Windows 클립보드 히스토리 매니저|[Repo](https://github.com/ddai-min/ddai_clipboard)|
-  |26.09|미니 게임|Flame · CustomPainter|스네이크 · 횡스크롤 점프 게임<br>GitHub Actions로 Windows 실행 파일 빌드|[Snake](https://github.com/ddai-min/ddai_snake_game) · [Jump](https://github.com/ddai-min/ddai_jump_game)|
   |26.09|따이 홀덤|Flame · Firestore · Firebase Auth|방 코드로 친구와 즐기는 온라인 텍사스 홀덤<br>보안 규칙으로 홀 카드 보호 · 사이드 팟 정산 · 봇 연습 모드|[Play](https://ddai-holdem.web.app) · [Repo](https://github.com/ddai-min/ddai_holdem)|
   |26.09|따이 운빨 디펜스|Flame · Firestore · GitHub Pages|뽑기 · 합성 기반 랜덤 디펜스 게임<br>밸런스 시뮬레이터로 난이도 설계 · 모드별 웨이브 랭킹|[Play](https://ddai-min.github.io/ddai_lucky_defense/) · [Repo](https://github.com/ddai-min/ddai_lucky_defense)|
-  |26.10~ing|따이 키우기|Unity 6 · C# · UI Toolkit|방치형 성장 게임<br>자동 전투 · 강화 · 오프라인 보상|[Repo](https://github.com/ddai-min/DdaiRaise)|
 
 <br>
   
@@ -76,16 +73,6 @@ Flutter 앱 개발과 함께 네이티브(Android / iOS) 유지보수, 배포 �
 
 <br>
 
-### Learning
-
-  | | |
-  |------:|:------|
-  |<b>Language</b>|  ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-512BD4.svg?&style=flat-square&logo=dotnet&logoColor=white)|
-  |<b>Engine</b>|  ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128.svg?&style=flat-square&logo=unrealengine&logoColor=white)  ![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=flat-square&logo=unity&logoColor=white)|
-  |<b>IDE</b>|  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-8A3391.svg?&style=flat-square&logo=VisualStudio&logoColor=white)|
-
-<br>
-  
 ### Github Stats
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ddai-min&layout=compact&langs_count=6&theme=tokyonight)
