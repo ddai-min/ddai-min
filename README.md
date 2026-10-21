@@ -34,9 +34,9 @@ Flutter 앱 개발과 함께 네이티브(Android / iOS) 유지보수, 배포 �
   |<b>Local Storage</b>|Drift · Hive · sqflite · Secure Storage · SharedPreferences|
   |<b>Auth & Security</b>|소셜 로그인 (Kakao / Naver / Google / Apple) · 생체 인증 · 루팅 · 탈옥 탐지 · 화면 캡처 방지 · AES 암호화 · Supabase RLS · Firestore Security Rules|
   |<b>Native</b>|Platform Channel (Swift / Kotlin / C++) · WebView 하이브리드 · JS Bridge|
-  |<b>Healthcare</b>|HealthKit · Google Fit 연동 · 만보기 · 건강 측정 기기 연동|
+  |<b>Healthcare</b>|HealthKit · Health Connect · Google Fit 연동 · 만보기 · 건강 측정 기기 연동|
   |<b>Graphics</b>|CustomPainter · fl_chart · Lottie · SVG · Flame|
-  |<b>Deployment</b>|GitHub Actions · fastlane (match · TestFlight · Play Console) · FVM · 다중 환경 빌드 · Web 배포 (GitHub Pages · Firebase Hosting)|
+  |<b>Deployment</b>|GitHub Actions · fastlane (match · TestFlight · Play Console) · FVM · 다중 환경 빌드 · Web 배포 (Firebase Hosting)|
   |<b>Test</b>|Unit Test · Widget Test · Golden Test|
 
 <br>
@@ -50,17 +50,16 @@ Flutter 앱 개발과 함께 네이티브(Android / iOS) 유지보수, 배포 �
   |22.03~25.01(2y 11m)|두베|7|Alioth V2|App Client|Flutter 엔터프라이즈 개발 가이드 템플릿<br>네트워크 · UI/UX · 푸시 · 예외 추적 사내 공통 패키지 설계|
   |23.01~23.11(11m)|두베|10|LifelogOne|App Client|블루투스 기기 연동 헬스케어 앱|
   |24.07~25.01(7m)|두베|20|마이브라운|App Client|펫 보험 앱|
-  |25.07~ing|창헬스케어|10|웰니스N창|App Client|만성질환 및 비만 관리 헬스케어 앱<br>2.0 리뉴얼: 웹뷰 → 네이티브 화면 전환 · GetX → Riverpod / go_router 마이그레이션|
-  |26.04~ing|창헬스케어|10|온N창|App Client|B2B 암 케어 서비스 앱<br>GitHub Actions · fastlane 기반 배포 자동화 구축|
+  |25.07~ing|창헬스케어|10|웰니스N창|App Client|만성질환 및 비만 관리 헬스케어 앱<br>2.0 리뉴얼: 웹뷰 → 네이티브 전환 (건강분석은 웹뷰 브리지)<br>GetX → Riverpod / go_router 마이그레이션|
+  |26.04~26.09(6m)|창헬스케어|10|온N창|App Client|B2B 암 케어 서비스 앱<br>GitHub Actions · fastlane 기반 배포 자동화 구축|
 
 #### Personal
 
   |Period|Title|Stack|Description|Link|
   |-----|-----|-----|-----|-----|
   |25.03~ing|따이 커뮤니티|Riverpod · Supabase · go_router|게시판 · 실시간 채팅 · 인앱 알림 커뮤니티 앱<br>Firebase → Supabase 전환 · 신고 / 차단 (RLS)|[Repo](https://github.com/ddai-min/ddai_community)|
-  |26.09~ing|따이 클립보드|Riverpod · Drift · Swift · C++|macOS · Windows 클립보드 히스토리 매니저|[Repo](https://github.com/ddai-min/ddai_clipboard)|
+  |26.09|따이 클립보드|Riverpod · Drift · Swift · C++|macOS · Windows 클립보드 히스토리 매니저|[Repo](https://github.com/ddai-min/ddai_clipboard)|
   |26.09|따이 홀덤|Flame · Firestore · Firebase Auth|방 코드로 친구와 즐기는 온라인 텍사스 홀덤<br>보안 규칙으로 홀 카드 보호 · 사이드 팟 정산 · 봇 연습 모드|[Play](https://ddai-holdem.web.app) · [Repo](https://github.com/ddai-min/ddai_holdem)|
-  |26.09|따이 운빨 디펜스|Flame · Firestore · GitHub Pages|뽑기 · 합성 기반 랜덤 디펜스 게임<br>밸런스 시뮬레이터로 난이도 설계 · 모드별 웨이브 랭킹|[Play](https://ddai-min.github.io/ddai_lucky_defense/) · [Repo](https://github.com/ddai-min/ddai_lucky_defense)|
 
 <br>
   
